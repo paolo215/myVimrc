@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/u/paolo2/problems/PY'
+let g:netrw_dirhist_2='/u/paolo2/CS322/Assignment1/Is'
+let g:netrw_dirhist_3='/u/paolo2/CS322/Assignment1/Lab/submit/q1'
+let g:netrw_dirhist_4='/u/paolo2'
